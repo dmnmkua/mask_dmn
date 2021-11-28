@@ -1,4 +1,5 @@
-example:
+## example:
+```
 import mask from 'mask_dmn';
 
 const options = {
@@ -8,3 +9,4 @@ const options = {
 }
 
 mask('.input-class', options);
+```
